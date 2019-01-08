@@ -1,0 +1,36 @@
+<xml>
+
+  <Actors>
+  
+    <Actor>
+  
+          <Id value="">
+          <Name value="Darren">
+          <Surname value="Criss">
+          <Sex value="0">
+          <Level value="5">
+          <Genre1 value="10">
+          <Genre2 value="7">
+          <Genre3 value="6">
+          <Genre4 value="9">
+          <Genre5 value="3">
+          <Genre6 value="6">
+          <Genre7 value="9">
+          <Genre8 value="10">
+          <Genre9 value="8">
+          <Genre10 value="6">
+          <Genre11 value="3">
+          <ImageActor value="">
+          
+        
+ 
+  
+  
+  
+    </Actor>
+  
+  
+  </Actors>
+  
+  
+</xml>
