@@ -1,0 +1,59 @@
+<xml>
+
+  <Ads>
+  
+    <Ad>
+    
+      <Id value="">
+      <Name value="Apple IPhone">
+      <Description value="The brand new expensive phone you don't need.">
+      <Percent value="78">
+      <Target value="-1">
+      <Blocks value="5">
+      <Gold value="450000">
+      <Penalty value="400000">
+      <Expire value="3">
+      <MinStatus value="2">
+      <MaxStatus value="3">
+      <ImageTV value="">
+      <ImagePoster value="">
+    
+    </Ad>
+  
+    <Ad>
+      <Id value="">
+      <Name value="Target">
+      <Description value="The more expensive Walmart.">
+      <Percent value="45">
+      <Target value="-1">
+      <Blocks value="3">
+      <Gold value="275000">
+      <Penalty value="175000">
+      <Expire value="2">
+      <MinStatus value="2">
+      <MaxStatus value="4">
+      <ImageTV value="">
+      <ImagePoster value="">
+    </Ad>
+    
+    <Ad>
+      <Id value="">
+      <Name value="Nintendo Switch">
+      <Description value="Our portable remake of the failed Wii U.">
+      <Percent value="86">
+      <Target value="2">
+      <Blocks value="4">
+      <Gold value="675000">
+      <Penalty value="525000">
+      <MinStatus value="3">
+      <MaxStatus value-"4">
+      <ImageTV value="">
+      <ImagePoster value="">
+      
+    </Ad>
+      
+  </Ads>
+  
+  
+  
+</xml>
