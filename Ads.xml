@@ -82,6 +82,23 @@
      <ImageTv value="">
      <ImagePoster value="">
        </Ad>
+ 
+<Ad>
+  <Id value="">
+  <Name value="Stranger Things">
+  <Description value="Watch this show. It's creepy and amazing.">
+  <Percent value="25">
+  <Target value="-1">
+ <Blocks value="1">
+  <Gold value="75000">
+   <Penalty value="50000">
+    <MinStatus value="1">
+     <MaxStatus value="2">
+     <ImageTV value="">
+     <ImagePoster="">
+       </Ad>
+       
+       
       
   </Ads>
   
