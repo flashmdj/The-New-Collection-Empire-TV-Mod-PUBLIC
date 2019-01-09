@@ -11,15 +11,10 @@ To download the mod directly from here, follow these instructions:
 
 1. Download the ZIP
 
-2. Extract the ZIP to C:\Users\[USERNAME]\AppData\LocalLow\Dreamsite Games\Empire TV Tycoon
+2. Extract the ZIP to C:\Users\[USERNAME]\AppData\LocalLow\Dreamsite Games\Empire TV Tycoon\addons\The New Collection
+(Note: You must create the New Collection folder inside of addons, as it does not exist yet.)
 
-3. Take the extracted files and move them to a new folder in the folder you extracted to called "The New Collection"
-
-4. Move all the pngs with no "p" attached to them to a new folder named "ImageMovieTV." (NOTE: DO NOT MOVE "thecustommod.png," at risk of breaking the mod, and in turn the new game function.
-
-5. Move all the pngs with a p to a new folder called "ImageMoviePoster."
-
-6. Launch Empire TV Tycoon and in the Game Mods Section, enable "The New Collection"
+3. Launch Empire TV Tycoon and in the Game Mods Section, enable "The New Collection"
 
 NOTE: Why not skip all of these steps and download the mod from Steam?
 
