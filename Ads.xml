@@ -51,6 +51,22 @@
       <ImagePoster value="">
       
     </Ad>
+        
+    <Ad>
+      <Id value="">
+      <Name value="The Sims 4">
+      <Description value="Buy our game, then buy our game, then buy our game, then buy our game...">
+      <Percent value="76">
+      <Target value="-1">
+      <Blocks value="2">
+      <Gold value="350000">
+      <Penalty value="325000">
+      <MinStatus value="2">
+      <MaxStatus value="4">
+      <ImageTV value="">
+      <ImagePoster value="">
+       
+        </Ad>
       
   </Ads>
   
