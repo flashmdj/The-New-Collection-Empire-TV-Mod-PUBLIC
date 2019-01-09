@@ -1,7 +1,9 @@
 # The-New-Collection-Empire-TV-Mod-PUBLIC
 Public Source Branch of the New Collection mod for Empire TV on Steam.
 
-You can donwload the mod here: https://steamcommunity.com/sharedfiles/filedetails/?id=1617014473
+DELETE THIS FILE AFTER READING IT!!!!!
+
+You can donwload the mod from Steam here: https://steamcommunity.com/sharedfiles/filedetails/?id=1617014473
 
 THIS MOD IS INTENDED FOR THE EMPIRE TV TYCOON STEAM GAME, which you can buy here: https://store.steampowered.com/app/377900/Empire_TV_Tycoon/
 
