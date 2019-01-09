@@ -67,6 +67,21 @@
       <ImagePoster value="">
        
         </Ad>
+        
+   <Ad>
+     <Id value="">
+     <Name value="Netflix">
+     <Description value="Pay us money to watch a ton of stuff without commercials. At least we're better than Hulu. Plus, we've got Stranger Things">
+     <Percent value="45">
+     <Target value="-1">
+     <Blocks value="5">
+     <Gold value="250000">
+     <Penalty value="245000">
+     <MinStatus value="2">
+     <MaxStatus value="3">
+     <ImageTv value="">
+     <ImagePoster value="">
+       </Ad>
       
   </Ads>
   
