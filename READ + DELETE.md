@@ -7,7 +7,7 @@ You can donwload the mod from Steam here: https://steamcommunity.com/sharedfiles
 
 THIS MOD IS INTENDED FOR THE EMPIRE TV TYCOON STEAM GAME, which you can buy here: https://store.steampowered.com/app/377900/Empire_TV_Tycoon/
 
-The name will be changed to the new collection on the next Steam release, which should be soon.
+The name will be changed to “The New Collection” on the next Steam release, which should be soon.
 
 To download the mod directly from here, follow these instructions:
 
