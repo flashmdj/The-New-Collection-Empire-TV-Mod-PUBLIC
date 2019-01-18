@@ -1,0 +1,385 @@
+<xml>
+	<Movies>
+		<Movie>
+			<Id value="">
+			<Name value="The Rocky Horror Picture Show">
+			<Storyline value="A newly engaged couple encounters a castle full of exotic people">
+			<Year value="1975">
+			<Genre value="8">
+			<Type value="1">
+			<Episodes value="0">
+			<Rating value="7.5">
+			<Blocks value="2">
+			<Cult value="1">
+			<Special value="1">
+			<Pirate value="0">
+			<Speech value="This is super weird">
+			<ImageTV value="rcky">
+                        <ImagePoster value="rckyp">
+		</Movie>
+		<Movie>
+		<Id value="">
+			<Name value="Rent: Filmed Live on Broadway">
+			<Storyline value="A group of friends struggles to enter the new millenium">
+			<Year value="2009">
+			<Genre value="8">
+			<Type value="1">
+			<Episodes value="0">
+			<Rating value="6.5">
+			<Blocks value="3">
+			<Cult value="0">
+			<Special value="0">
+			<Pirate value="0">
+			<Speech value="Good music">
+			<ImageTV value="rentbroadway">
+                        <ImagePoster value="rentbroadwayp">
+            </Movie>
+            <Movie>
+            <Id value="">
+            <Name value="Frasier">
+            <Storyline value="A disgruntled radio doctor deals with his father and the daily struggle of life">
+            <Year value="1990">
+            <Genre value="0">
+            <Type value="2">
+            <Episodes value="15">
+            <Rating value="8.5">
+            <Blocks value="1">
+            <Cult value="0">
+            <Special value="0">
+            <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                   <Movie>
+            <Id value="">
+            <Name value="Modern Family">
+            <Storyline value="A story of a dysfunctional family that somehow manages to survive">
+            <Year value="2009">
+            <Genre value="0">
+            <Type value="2">
+            <Episodes value="15">
+            <Rating value="9">
+            <Blocks value="1">
+            <Cult value="0">
+            <Special value="0">
+            <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                   <Movie>
+            <Id value="">
+            <Name value="Bye Bye Birdie">
+            <Storyline value="A movie version of the stage play that follows the town of Sweet Apple, Ohio as a famous singer comes to town">
+            <Year value="1996">
+            <Genre value="8">
+            <Type value="1">
+            <Episodes value="0">
+            <Rating value="6.4">
+            <Blocks value="3">
+            <Cult value="0">
+            <Special value="0">
+            <Pirate value="1">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                   <Movie>
+            <Id value="">
+            <Name value="Beauty and the Beast">
+            <Storyline value="A live action version of the classic Disney fairytale">
+            <Year value="2016">
+            <Genre value="8">
+            <Type value="1">
+            <Episodes value="0">
+            <Rating value="9">
+            <Blocks value="0">
+            <Cult value="0">
+            <Special value="0">
+            <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                   <Movie>
+            <Id value="">
+            <Name value="Ferris Bueller's Day Off">
+            <Storyline value="A group of teenagers skip school and embark o a day of adventure">
+            <Year value="1986">
+            <Genre value="0">
+            <Type value="1">
+            <Episodes value="0">
+            <Rating value="10">
+            <Blocks value="2">
+            <Cult value="1">
+            <Special value="0">
+            <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                   <Movie>
+            <Id value="">
+            <Name value="Ocean's 8">
+            <Storyline value="A recently released criminal gathers a group of people to perform one final heist: The Met Ball">
+            <Year value="2018">
+            <Genre value="0">
+            <Type value="1">
+            <Episodes value="0">
+            <Rating value="7.5">
+            <Blocks value="2">
+            <Cult value="0">
+            <Special value="0">
+            <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                
+                   <Movie>
+            <Id value="">
+            <Name value="Back to the Future">
+            <Storyline value="A teenage and doctor go on a crazy time travel journey">
+            <Year value="1985">
+            <Genre value="2">
+            <Type value="1">
+            <Episodes value="0">
+            <Rating value="7.5">
+            <Blocks value="2">
+            <Cult value="1">
+            <Special value="0">
+            <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                
+                       <Movie>
+            <Id value="">
+            <Name value="Back to the Future Part II">
+            <Storyline value="A teenage and doctor go on a crazy time travel journey to 2015">
+            <Year value="1989">
+            <Genre value="2">
+            <Type value="1">
+            <Episodes value="0">
+            <Rating value="8.5">
+            <Blocks value="2">
+            <Cult value="1">
+            <Special value="0">
+            <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                
+                       <Movie>
+            <Id value="">
+            <Name value="School of Rock">
+            <Storyline value="A musician desperate for money pretends to be a substitute teacher at a pretisgious school, and in the process, changes kids' lives.">
+            <Year value="2003">
+            <Genre value="0">
+            <Type value="1">
+            <Episodes value="0">
+            <Rating value="8.2">
+            <Blocks value="2">
+            <Cult value="0">
+            <Special value="0">
+            <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                
+                       <Movie>
+            <Id value="">
+            <Name value="3rd Rock From The Sun">
+            <Storyline value="A group of aliens come down to Earth and learn the ins and outs of human life/">
+            <Year value="1996">
+            <Genre value="0">
+            <Type value="2">
+            <Episodes value="15">
+            <Rating value="7.5">
+            <Blocks value="2">
+            <Cult value="1">
+            <Special value="0">
+            <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                
+                       <Movie>
+            <Id value="">
+            <Name value="Heathers">
+            <Storyline value="A teenage hiearchy gets a teen involved with murder">
+            <Year value="1989">
+            <Genre value="0">
+            <Type value="1">
+            <Episodes value="0">
+            <Rating value="6.5">
+            <Blocks value="2">
+            <Cult value="1">
+            <Special value="1">
+            <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                
+                <Movie>
+                <Id value="">
+                <Name value="Space Jam">
+                <Storyline value="Michael Jordan gets sucked into the world of Looney Tunes.">
+                <Year value="1996">
+                <Genre value="0">
+                <Type value="1">
+                <Episodes value="0">
+                <Rating value="5.3">
+                <Blocks value="1">
+                <Cult value="1">
+                <Speical value="0">
+              <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                
+                                <Movie>
+                <Id value="">
+                <Name value="Glee">
+                <Storyline value="A Spanish teacher takes on a school's failing Glee club.">
+                <Year value="2009">
+                <Genre value="0">
+                <Type value="2">
+                <Episodes value="15">
+                <Rating value="8.5">
+                <Blocks value="1">
+                <Cult value="1">
+                <Speical value="0">
+              <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="">
+            <ImagePoster value="">
+                </Movie>
+                
+                                <Movie>
+                <Id value="">
+                <Name value="Little Shop of Horrors">
+                <Storyline value="A alien plant come from outer space to devour humans..">
+                <Year value="1986">
+                <Genre value="8">
+                <Type value="1">
+                <Episodes value="0">
+                <Rating value="4.5">
+                <Blocks value="2">
+                <Cult value="1">
+                <Speical value="0">
+              <Pirate value="0">
+            <Speech value="">
+            <ImageTV value="lsoh">
+            <ImagePoster value="lsohp">
+                </Movie>
+                
+                <Movie>
+                  
+                  <Id value="">
+                  <Name value="Nary Poppins Returns">
+                  <Storyline value="Mary Poppibs comes back to teach the next generation of Banks children">
+                  <Year value="2018">
+                  <Genre value="8">
+                  <Type value="1">
+                  <Episodes value="0">
+                  <Rating value="9.5">
+                  <Blocks value="3">
+                  <Cult value="0">
+                  <Speical value="0">
+                  <Pirate value="1">
+                  <Speech value="">
+                  <ImageTV value="">
+                  <ImagePoster value="">
+                </Movie>
+                
+            <Movie>
+                
+                <Id value="">
+                <Name value="Bohemian Rhapsody">
+                <Storyline value="BEST PICTURE WINNER! A biopic about the life of Freddie Mercury and the Queen story">
+                <Year value="2018">
+                <Genre value="1">
+                <Type value="1">
+                <Episodes value="0">
+                <Rating value="8.7">
+                <Blocks value="3">
+                <Cult value="0">
+                <Special value="0">
+                <Pirate value="1">
+                <Speech value="">
+                <ImageTV value="">
+                <ImagePoster value="">
+              
+            </Movie>
+            
+            <Movie>
+            
+              <Id value="">
+              <Name value="Friends">
+              <Storyline value="A group of friends lives in New York">
+              <Year value="1991">
+              <Genre value="0">
+              <Type value="2">
+              <Episodes value="15">
+              <Rating value="9.2">
+              <Blocks value="1">
+              <Cult value="1">
+              <Special value="0">
+              <Pirate value="0">
+              <Speech value="">
+              <ImageTV value="">
+              <ImagePoster value="">
+            
+            </Movie>
+                
+            <Movie>
+            
+              <Id value="">
+              <Name value="Screen Rant's Pitch Meetings">
+              <Storyline value="A comedic behind the scenes look at how your favorite movies came to life.">
+              <Year value="2018">
+              <Genre value="0">
+              <Type value="2">
+              <Episodes value="10">
+              <Rating value="6.7">
+              <Blocks value="1">
+              <Cult value="0">
+              <Special value="0">
+              <Pirate value="1">
+              <Speech value="">
+              <ImageTV value="">
+              <ImagePoster value="">
+              
+            </Movie>
+            
+            <Movie>
+            
+              <Id value="">
+              <Name value="Stranger Things">
+              <Storyline value="A government expirment gone wrong results in the disapperance of Will Byers, and his friends lauch a full investigation to find him.">
+              <Year value="2017">
+              <Genre value="1">
+              <Type value="2">
+              <Episodes value="10">
+              <Rating value="10">
+              <Blocks value="1">
+              <Cult value="1">
+              <Special value="1">
+              <Pirate value="0">
+              <Speech value="">
+              <ImageTV value="">
+              <ImagePoster value="">
+              
+            </Movie>
+              
+                
+	</Movies>
+</xml>
